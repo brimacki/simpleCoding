@@ -1,0 +1,5 @@
+./helloC
+./helloC++
+./helloF90
+./hello.bash
+python hello.py
